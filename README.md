@@ -1,3 +1,4 @@
+#SOLET- Solana Wallet
 # Implementation of hierarchical wallet in solana Blockchain
 
 - It has a button that creates four wallets based on 12-mnemonic words
